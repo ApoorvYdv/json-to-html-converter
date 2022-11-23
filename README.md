@@ -1,1 +1,1 @@
-# JSON to HTML convertor
+# JSON to HTML converter
