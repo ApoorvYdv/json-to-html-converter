@@ -1,0 +1,49 @@
+body {
+    margin: 0px;
+}
+
+.header {
+    font-family: "Times New Roman", serif;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+.header * {
+    margin: 0px;
+    font-size: 14pt;
+}
+
+.header_section1 {
+    font-size: 36pt;
+}
+
+.header_section2 {
+    font-size: 28pt;
+}
+
+.body_section {
+    color: black;
+    font-family: "Courier New", monospace;
+    font-size: 13pt;
+}
+
+.body_header1 {
+    text-align: right;
+}
+
+.body_para {
+    color: black;
+}
+
+.body_footer {
+    text-align: right;
+}
+
+.footer_section {
+    position: absolute;
+    bottom: 0px;
+    color: black;
+    font-family: "Times New Roman", serif;
+}
