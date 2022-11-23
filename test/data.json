@@ -113,12 +113,16 @@
                     "_style_class_": "body_footer3"
                 }
             }
+        },
+        "body_footer": {
+            "section1": {
+                "text": "Civil Department",
+                "_style_class_": "footer_section1"
+            },
+            "section2": {
+                "text": "614-525-7411",
+                "_style_class_": "footer_section2"
+            }
         }
-    },
-    "_attorneyname_": "Frank Andrade",
-    "_attorney_address_": "Wework, DLF Phase 1",
-    "_CurrDate_": "24/12/2022",
-    "_style_": "<b>Civil Act</b>",
-    "_Casenbr_": "25",
-    "_today_30days_": "24/12/2022"
+    }
 }
