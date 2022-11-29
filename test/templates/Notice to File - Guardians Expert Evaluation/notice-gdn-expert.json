@@ -1,0 +1,134 @@
+[
+    {
+        "html": "<html lang='en'>",
+        "head": {
+            "title": "<head><title>Notice to File - Civil Act Status Letter</title></head>"
+        },
+        "body": {
+            "header": {
+                "section1": {
+                    "text": "Jeffrey D. Mackey, Judge",
+                    "_style_class_": "header_section1"
+                },
+                "section2": {
+                    "text": "Franklin County Probate Court",
+                    "_style_class_": "header_section2"
+                },
+                "section3": {
+                    "text": "373 SOUTH HIGH STREET, 22ND FLOOR, COLUMBUS, OHIO 43215-6311",
+                    "_style_class_": "header_section3"
+                },
+                "section4": {
+                    "text": "Probate.franklincountyohio.gov",
+                    "_style_class_": "header_section4"
+                },
+                "section5": {
+                    "text": "Phone: (614) 525-3894",
+                    "_style_class_": "header_section5"
+                },
+                "section6": {
+                    "text": "Fax: (614) 525-7422",
+                    "_style_class_": "header_section6"
+                }
+            },
+            "body_section": {
+                "body_header": {
+                    "section1": {
+                        "text": "<_CurrDate05_>",
+                        "_style_class_": "body_header_right"
+                    },
+                    "section2": {
+                        "text": "<_attorneyname_>",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section3": {
+                        "text": "ATTORNEY AT LAW",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section4": {
+                        "text": "<_atty_address_>",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section5": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section6": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section7": {
+                        "text": "&emsp;&emsp;&emsp;&emsp;RE: <_style_>",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section8": {
+                        "text": "&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Case Number: <_CaseNbr_>",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section9": {
+                        "text": "br",
+                        "_style_class_": ""
+                    }
+                },
+                "body_para": {
+                    "section1": {
+                        "text": "Dear Counselor:",
+                        "_style_class_": "body_para1"
+                    },
+                    "section2": {
+                        "text": "&emsp;&emsp;&emsp;&emsp;Our docket in the above referenced Guardianship reflects that a Guardian's Expert Evaluation has not yet been filed and is due within approximately one (1) month.",
+                        "_style_class_": "body_para2"
+                    },
+                    "section3": {
+                        "text": "&emsp;&emsp;&emsp;&emsp;Please file the enclosed Guardian's Expert Evaluation on or before <targetdate> to avoid a citation being issued to you and the guardian requiring you and the guardian to appear before this Court pursuant to Ohio R.C. 2109.31.  The Guardian's Annual Report form is available at the Records Department and is also available through the Court's website at <u>http://probate.franklincountyohio.gov/forms/.</u>",
+                        "_style_class_": "body_para3"
+                    },
+                    "section4": {
+                        "text": "&emsp;&emsp;&emsp;&emsp;Your timely attention to this matter is appreciated.",
+                        "_style_class_": "body_para4"
+                    }
+                },
+                "body_footer": {
+                    "section1": {
+                        "text": "Very truly yours,",
+                        "_style_class_": "body_footer"
+                    },
+                    "section2": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section3": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section4": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section5": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section6": {
+                        "text": "Jeffrey D. Mackey",
+                        "_style_class_": "body_footer"
+                    },
+                    "section7": {
+                        "text": "Probate Judge",
+                        "_style_class_": "body_footer"
+                    }
+                }
+            },
+            "body_footer": {
+                "section1": {
+                    "text": "Guardianship Department:",
+                    "_style_class_": "footer_section_line"
+                },
+                "section2": {
+                    "text": "614-525-3841",
+                    "_style_class_": "footer_section_line"
+                }
+            }
+        }
+    }
+]

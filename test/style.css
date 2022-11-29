@@ -29,7 +29,12 @@ body {
     font-size: 13pt;
 }
 
-.body_header1 {
+.body_header_left {
+    text-align: left;
+    margin-bottom: -1rem;
+}
+
+.body_header_right {
     text-align: right;
 }
 
@@ -37,13 +42,21 @@ body {
     color: black;
 }
 
+.body_footer_section {
+    float: right;
+}
+
 .body_footer {
-    text-align: right;
+    margin-bottom: -1rem;
 }
 
 .footer_section {
     position: absolute;
-    bottom: 0px;
+    bottom: 1rem;
     color: black;
-    font-family: "Times New Roman", serif;
+    font-family: "Calibri", serif;
+}
+
+.footer_section_line {
+    margin-bottom: -1rem;
 }

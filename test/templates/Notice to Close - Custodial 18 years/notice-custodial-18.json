@@ -1,0 +1,138 @@
+[
+    {
+        "html": "<html lang='en'>",
+        "head": {
+            "title": "<head><title>Notice to File - Civil Act Status Letter</title></head>"
+        },
+        "body": {
+            "header": {
+                "section1": {
+                    "text": "Jeffrey D. Mackey, Judge",
+                    "_style_class_": "header_section1"
+                },
+                "section2": {
+                    "text": "Franklin County Probate Court",
+                    "_style_class_": "header_section2"
+                },
+                "section3": {
+                    "text": "373 SOUTH HIGH STREET, 22ND FLOOR, COLUMBUS, OHIO 43215-6311",
+                    "_style_class_": "header_section3"
+                },
+                "section4": {
+                    "text": "Probate.franklincountyohio.gov",
+                    "_style_class_": "header_section4"
+                },
+                "section5": {
+                    "text": "Phone: (614) 525-3894",
+                    "_style_class_": "header_section5"
+                },
+                "section6": {
+                    "text": "Fax: (614) 525-7422",
+                    "_style_class_": "header_section6"
+                }
+            },
+            "body_section": {
+                "body_header": {
+                    "section1": {
+                        "text": "br",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section2": {
+                        "text": "br",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section3": {
+                        "text": "<_CurrDate_>",
+                        "_style_class_": "body_header_right"
+                    },
+                    "section4": {
+                        "text": "<_fullname_>",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section5": {
+                        "text": "<_caseaddressline1_>",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section6": {
+                        "text": "<_caseaddressline2_>",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section7": {
+                        "text": "<_caseaddresscity, state, zip_>",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section8": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section9": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section10": {
+                        "text": "&emsp;&emsp;&emsp;&emsp;In re: <_Style_>",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section11": {
+                        "text": "&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Case Number: <_CaseNbr_>",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section12": {
+                        "text": "br",
+                        "_style_class_": ""
+                    }
+                },
+                "body_para": {
+                    "section1": {
+                        "text": "Dear <_fullname_>:",
+                        "_style_class_": "body_para"
+                    },
+                    "section2": {
+                        "text": "&emsp;&emsp;&emsp;&emsp;Our records indicate the minor in the above matter will be eighteen (18) years of age on <_ID18th_bday_>. Ohio law mandates that the guardianship be terminated at that time. Both you and the minor should appear at the Custodial Accounts department in this Court within thirty (30) days after that date to complete the necessary paperwork to terminate the matter. The minor is to bring a government issued identification card with a picture and showing date of birth.",
+                        "_style_class_": "body_para"
+                    },
+                    "section3": {
+                        "text": "&emsp;&emsp;&emsp;&emsp;You should bring twenty dollars ($20. 00) in cash to cover the filing fees.",
+                        "_style_class_": "body_para"
+                    }
+                },
+                "body_footer": {
+                    "section1": {
+                        "text": "Very truly yours,",
+                        "_style_class_": "body_footer"
+                    },
+                    "section2": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section3": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section4": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section5": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section6": {
+                        "text": "Jeffrey D. Mackey",
+                        "_style_class_": "body_footer"
+                    },
+                    "section8": {
+                        "text": "Probate Judge",
+                        "_style_class_": "body_footer"
+                    }
+                }
+            },
+            "body_footer": {
+                "section1": {
+                    "text": "Custodial Department 614-525-3174",
+                    "_style_class_": "footer_section_line"
+                }
+            }
+        }
+    }
+]

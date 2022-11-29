@@ -2,7 +2,6 @@ import os
 
 import jinja2
 import pdfkit
-from pathlib import Path
 
 import json
 
@@ -41,7 +40,7 @@ def create_body_section_line(body_section_key):
     body_code += "</div><div class='body_para'>"
     for key in para:
         body_code += create_body_line(para[key])
-    body_code += "</div><div class='body_footer_section'>"
+    body_code += "</div><div class='body_footer'>"
     for key in footer:
         body_code += create_body_line(footer[key])
     body_code += "</div>"
@@ -83,18 +82,17 @@ def json_to_html(data):
     body = data["body"]
     header_code = html_tag(html, head)
     body_code = body_tag(body)
-
-    code = header_code + body_code
+    code = header_code + body_code + "</html>"
     # print(code)
+
     return code
 
 
 def create_html_file(code):
-    f = open("template.html", "w")
     message = f"""{code}"""
-
-    f.write(message)
-    f.close()
+    with open("template.html", "a") as filen:
+        filen.write(code)
+        filen.close()
 
 
 def mapping_param(data):
@@ -114,17 +112,16 @@ def JSONtoPDF(path):
     code = ""
     for item in json_data:
         code += json_to_html(item)
-        code += "<p style='page-break-before: always;'></p>"
-    code += "</html>"
+    #     print(code)
+    # create_html_file(code)
+
     # f = open("mapping.json", "r")
     # data = json.loads(f.read())
     # output_text = mapping_param(data)
     config = pdfkit.configuration(
         wkhtmltopdf="C:\Program Files\wkhtmltopdf\\bin\wkhtmltopdf.exe"
     )
-    head, tail = os.path.split(path)
-    file_name = Path(tail).stem
-    output_pdf = f"{head}/{file_name}.pdf"
+    output_pdf = "pdf_generated.pdf"
     pdfkit.from_string(
         code, output_pdf, configuration=config, css="style.css", options=option
     )
@@ -135,11 +132,14 @@ def mapping_files():
     path = os.path.join(cwd, "templates")
     dir_list = os.listdir(path)
     for folder_name in dir_list:
-        templates_path = os.path.join(path, folder_name)
-        for file_name in os.listdir(templates_path):
+        template_path = os.path.join(path, folder_name)
+        for file_name in os.listdir(template_path):
             if file_name.endswith(".json"):
-                path_to_json = os.path.join(templates_path, file_name)
+                path_to_json = os.path.join(template_path, file_name)
                 JSONtoPDF(path_to_json)
+                flag = 1
+        if flag == 1:
+            break
 
 
 mapping_files()

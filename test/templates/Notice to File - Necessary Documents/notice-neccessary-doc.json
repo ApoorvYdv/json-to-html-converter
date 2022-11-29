@@ -1,0 +1,150 @@
+[
+    {
+        "html": "<html lang='en'>",
+        "head": {
+            "title": "<head><title>Notice to File - Civil Act Status Letter</title></head>"
+        },
+        "body": {
+            "header": {
+                "section1": {
+                    "text": "Jeffrey D. Mackey, Judge",
+                    "_style_class_": "header_section1"
+                },
+                "section2": {
+                    "text": "Franklin County Probate Court",
+                    "_style_class_": "header_section2"
+                },
+                "section3": {
+                    "text": "373 SOUTH HIGH STREET, 22ND FLOOR, COLUMBUS, OHIO 43215-6311",
+                    "_style_class_": "header_section3"
+                },
+                "section4": {
+                    "text": "Probate.franklincountyohio.gov",
+                    "_style_class_": "header_section4"
+                },
+                "section5": {
+                    "text": "Phone: (614) 525-3894",
+                    "_style_class_": "header_section5"
+                },
+                "section6": {
+                    "text": "Fax: (614) 525-7422",
+                    "_style_class_": "header_section6"
+                }
+            },
+            "body_section": {
+                "body_header": {
+                    "section1": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section2": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section3": {
+                        "text": "<_CurrDate_>",
+                        "_style_class_": "body_header_right"
+                    },
+                    "section4": {
+                        "text": "<_casename_>",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section5": {
+                        "text": "<_caseaddressline1_>",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section6": {
+                        "text": "<_caseaddressline2_>",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section7": {
+                        "text": "<_caseaddresscity, state, zip_>",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section8": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section9": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section10": {
+                        "text": "&emsp;&emsp;&emsp;&emsp;In re: <_Style_>",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section11": {
+                        "text": "&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Case Number: <_CaseNbr_>",
+                        "_style_class_": "body_header_left"
+                    },
+                    "section12": {
+                        "text": "br",
+                        "_style_class_": ""
+                    }
+                },
+                "body_para": {
+                    "section1": {
+                        "text": "Dear Guardian:",
+                        "_style_class_": "body_para1"
+                    },
+                    "section2": {
+                        "text": "&emsp;&emsp;&emsp;&emsp;Our docket in the above referenced Release from Administration Estate reflects necessary document(s) have not been filed to close the estate.",
+                        "_style_class_": "body_para2"
+                    },
+                    "section3": {
+                        "text": "&emsp;&emsp;&emsp;&emsp;Please file the document(s) on or before <targetdate> to avoid a citation being issued to you and the applicant/commissioner requiring you and the applicant/commissioner to appear before this Court pursuant to Ohio R.C. 2109.31.",
+                        "_style_class_": "body_para3"
+                    },
+                    "section4": {
+                        "text": "&emsp;&emsp;&emsp;&emsp;If you have questions concerning what needs to be filed, you may contact the Release from Administration Department at 614-525-5362.",
+                        "_style_class_": "body_para3"
+                    },
+                    "section5": {
+                        "text": "&emsp;&emsp;&emsp;&emsp;Your timely attention to this matter is appreciated.",
+                        "_style_class_": "body_para3"
+                    }
+                },
+                "body_footer": {
+                    "section1": {
+                        "text": "Very truly yours,",
+                        "_style_class_": "body_footer"
+                    },
+                    "section2": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section3": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section4": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section5": {
+                        "text": "br",
+                        "_style_class_": ""
+                    },
+                    "section6": {
+                        "text": "Jeffrey D. Mackey",
+                        "_style_class_": "body_footer"
+                    },
+                    "section7": {
+                        "text": "Probate Judge",
+                        "_style_class_": "body_footer"
+                    }
+                }
+            },
+            "body_footer": {
+                "section1": {
+                    "text": "Release Department:",
+                    "_style_class_": "footer_section_line"
+                },
+                "section2": {
+                    "text": "614-525-5362",
+                    "_style_class_": "footer_section_line"
+                }
+            }
+        }
+    }
+]
